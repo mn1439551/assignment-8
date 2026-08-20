@@ -1,6 +1,9 @@
 section {
   margin-bottom: 30px;
 }
+h2 {
+  margin-left: 20px;
+}
 .task1 {
   background-color: white;
   border: 1px solid #ddd;
