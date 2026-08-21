@@ -7,7 +7,7 @@ h2 {
 .task1 {
   background-color: white;
   border: 1px solid #ddd;
-  border-radius: 20px;
+  border-radius: 3px;
   padding: 28px;
   display: flex;
   flex-direction: row;
